@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MaevenContinous:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MaevenContinous_jar</output-path>
+    <root id="archive" name="MaevenContinous.jar">
+      <element id="module-output" name="MaevenContinous" />
+    </root>
+  </artifact>
+</component>
